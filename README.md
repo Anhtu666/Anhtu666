@@ -9,8 +9,10 @@ Hi! I am currently a university student majoring in Artificial Intelligence at F
 ## 🌱 I'm currently learning
 - Deep Learning (CNNs, RNNs, Transformers)
 - MLOps and model deployment techniques
+- Building end-to-end AI applications
 - Apche Hadoop and Spark
 - Natural language processing (NLP)
+
 ## 💻 Tech Stack
 R &nbsp;|&nbsp; Python &nbsp;|&nbsp; Keras &nbsp;|&nbsp; PyTorch &nbsp;|&nbsp; scikit-learn &nbsp;|&nbsp; TensorFlow  
 Spark &nbsp;|&nbsp; Apache Hadoop &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; Microsoft SQL Server  
