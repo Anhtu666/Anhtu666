@@ -14,7 +14,7 @@ Hi! I am currently a university student majoring in Artificial Intelligence at F
 ## 💻 Tech Stack
 R &nbsp;|&nbsp; Python &nbsp;|&nbsp; Keras &nbsp;|&nbsp; PyTorch &nbsp;|&nbsp; scikit-learn &nbsp;|&nbsp; TensorFlow  
 Spark &nbsp;|&nbsp; Apache Hadoop &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; Microsoft SQL Server  
-Git &nbsp;|&nbsp; GitLab &nbsp;|&nbsp; Docker
+Git &nbsp;|&nbsp; Docker
 
 ## 📬 Contact Me
 
